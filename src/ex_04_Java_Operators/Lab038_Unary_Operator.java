@@ -1,8 +1,6 @@
 package ex_04_Java_Operators;
 
-import java.sql.SQLOutput;
-
-public class Unary_Operator
+public class Lab038_Unary_Operator
 {
     public static void main(String[] args) {
         //Unary Operator
